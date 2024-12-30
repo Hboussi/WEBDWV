@@ -1,0 +1,6 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Photos		NFI		nouveau fichier
+FICHETECH		FIC-	FICHETECH	Fichier supprimé FICHETECH
+MaConnexion1		CNX		
+Connexion à '127.0.0.1:4900:4900'		CNX+		
+Photos		FRN		

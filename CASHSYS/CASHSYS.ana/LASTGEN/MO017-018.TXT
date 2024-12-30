@@ -1,0 +1,4 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Fournisseur		TAR	743	nouvelle taille enregistrement : 743
+Fournisseur	Date_d_ajout	CNW	Date (aaaammjj)$Chaîne	la rubrique Date_d_ajout a pour nouveau type Date (aaaammjj)
+Fournisseur	Statut	CNW	Booléen$Chaîne	la rubrique Statut a pour nouveau type Booléen

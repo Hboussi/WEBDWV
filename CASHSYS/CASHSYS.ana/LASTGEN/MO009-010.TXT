@@ -1,0 +1,2 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+journal_opera	CODE_operation	NNR	CODE_PROD	ATTENTION : la rubrique CODE_PROD a pour nouveau nom CODE_operation

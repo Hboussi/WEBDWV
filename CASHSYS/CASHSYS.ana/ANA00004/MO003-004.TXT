@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Sproduits		TAR	1118	nouvelle taille enregistrement : 1118
+Sproduits	TypePROD2	RUB+		TypePROD2 est une nouvelle rubrique
+Sproduits	TypePROD3	RUB+		TypePROD3 est une nouvelle rubrique

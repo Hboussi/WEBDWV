@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Fournisseur		TAR	794	nouvelle taille enregistrement : 794
+Fournisseur	Fax	RUB+		Fax est une nouvelle rubrique

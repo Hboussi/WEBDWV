@@ -1,0 +1,4 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Sproduits		TAR	1068	nouvelle taille enregistrement : 1068
+Sproduits	venteprod	NNR	TypePROD1	ATTENTION : la rubrique TypePROD1 a pour nouveau nom venteprod
+Sproduits	venteprod	CNW	Booléen$Chaîne	la rubrique venteprod a pour nouveau type Booléen

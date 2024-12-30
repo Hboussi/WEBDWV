@@ -1,0 +1,2 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+FICHETECH	QTE	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique QTE a pour nouveau type Réel sur 4 octets

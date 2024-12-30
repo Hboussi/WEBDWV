@@ -1,0 +1,10 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Sproduits		TAR	1440	nouvelle taille enregistrement : 1440
+Sproduits	heure_MJ	RUB+		heure_MJ est une nouvelle rubrique
+Sproduits	IMPR	RUB+		IMPR est une nouvelle rubrique
+Sproduits	IMPR1	RUB+		IMPR1 est une nouvelle rubrique
+Sproduits	IMPR2	RUB+		IMPR2 est une nouvelle rubrique
+Sproduits	IMPR3	RUB+		IMPR3 est une nouvelle rubrique
+Sproduits	IMPR4	RUB+		IMPR4 est une nouvelle rubrique
+Sproduits	IMPR5	RUB+		IMPR5 est une nouvelle rubrique
+Sproduits	IMPR6	RUB+		IMPR6 est une nouvelle rubrique

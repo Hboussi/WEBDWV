@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+journal_opera	IDjournal_CashSys	NNR	IDjournal_opera	ATTENTION : la clé IDjournal_opera a pour nouveau nom IDjournal_CashSys
+journal_opera	CODE_PROD	NNR	code_client	ATTENTION : la rubrique code_client a pour nouveau nom CODE_PROD
+journal_opera	NOM_PROD	NNR	nom_client	ATTENTION : la rubrique nom_client a pour nouveau nom NOM_PROD

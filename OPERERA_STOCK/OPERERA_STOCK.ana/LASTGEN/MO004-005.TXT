@@ -1,0 +1,4 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Integrity		FIC-	Integrity	Fichier supprimé Integrity
+MaConnexion1		CNX		
+Stock		FRN		

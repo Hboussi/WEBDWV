@@ -1,0 +1,19 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+sconfig		TAR	1193	nouvelle taille enregistrement : 1193
+sconfig	Societe	RUB+		Societe est une nouvelle rubrique
+sconfig	CAISSE	RUB+		CAISSE est une nouvelle rubrique
+sconfig	IMPR_INI	RUB+		IMPR_INI est une nouvelle rubrique
+sconfig	IMPR1	RUB+		IMPR1 est une nouvelle rubrique
+sconfig	IMPR2	RUB+		IMPR2 est une nouvelle rubrique
+sconfig	IMPR3	RUB+		IMPR3 est une nouvelle rubrique
+sconfig	IMPR4	RUB+		IMPR4 est une nouvelle rubrique
+sconfig	IMPR5	RUB+		IMPR5 est une nouvelle rubrique
+sconfig	IMPR6	RUB+		IMPR6 est une nouvelle rubrique
+sconfig	libre1	RUB+		libre1 est une nouvelle rubrique
+sconfig	libre2	RUB+		libre2 est une nouvelle rubrique
+sconfig	libre3	RUB+		libre3 est une nouvelle rubrique
+sconfig	libre4	RUB+		libre4 est une nouvelle rubrique
+sconfig	Libre5	RUB+		Libre5 est une nouvelle rubrique
+sconfig	Libre6	RUB+		Libre6 est une nouvelle rubrique
+sconfig	LIbre7	RUB+		LIbre7 est une nouvelle rubrique
+sconfig	Libre8	RUB+		Libre8 est une nouvelle rubrique
